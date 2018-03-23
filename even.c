@@ -4,7 +4,7 @@ int main()
 int i;
 printf("Enter the number:\n");
 scanf("%d\n",i);
-if(i\2==0)
+if(i%2==0)
 {
 printf("The number is even \n");
 }
